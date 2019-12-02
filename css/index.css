@@ -1,0 +1,148 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  height: 2000px;
+}
+
+.head {
+  height: 62px;
+  background-color: burlywood;
+  padding-left: 20px;
+  padding-right: 20px;
+ position: fixed;
+}
+.head-1 {
+  display: inline-block;
+}
+.head-nav-logo{
+margin-top: 5px;
+}
+.head-nav {
+  display: flex;
+  height:40px;
+  width: 1700px;
+  margin-top: 10px;
+}
+.span0 {
+  margin-left: 12px;
+  display:flex;
+  margin-top: 10px;
+  flex-direction: column;
+  margin-right: 10px;
+}
+.span1 {
+  font-weight: 800;
+  line-height: 1;
+  font-size: 15px;
+}
+
+.span2 {
+  font-size: 5px;
+}
+
+.search {
+  border-radius: 24px;
+  border: 1px solid transparent;
+  height: 21px;
+  display: inline-block;
+  margin-left: 8px;
+  margin-top: 15px;
+  padding: 1px 1px 1px 0px;
+  width: 772px;
+}
+.font {
+  display: inline-block;
+  width: 167px;
+  height: 30px;
+  margin-top: 13px;
+  font-size:  14px;
+}
+a {
+  text-decoration:none;
+  color:#767676;
+}
+
+.font-span1 {
+  padding: 10px 10px;
+}
+
+.dian {
+margin-top: 15px;
+color:#767676;
+}
+.last {
+  width: 274px;
+  height: 32px;
+  margin-top: 5px;
+
+}
+
+.last-span1{
+  display: inline-block;
+  width: 110px;
+  height: 22px;
+  margin: 9px 0px 0px 10px;
+  font-size: 13px; 
+  color: #767676;
+  padding: 0px 1px 0px 14px;
+}
+.last-span2 {
+  display: inline-block;
+  font-size: 15px;
+  margin-right:16px;
+}
+.last-span3 {
+  display: inline-block;
+  height: 21.2px;
+  width: 66px;
+  color: #fff;
+  fill: currentColor;
+  background-color: #3cb46e;
+}
+/* 第一块头部 */
+
+.head-2{
+height:56px;
+width: 1583px; 
+background-color: aquamarine;
+position: fixed;
+top: 60px;
+}
+.head-2-1 {
+  width: 75px;
+  height: 40px;
+  display: inline-block;
+  padding-left: 14px;
+  
+}
+
+.head-2-1-span1{
+  font-size: 14px;
+  color: #111;
+  display: inline-block;
+  height: 30px;
+  box-shadow: inset 0 -2px #111;
+
+}
+.head-2-2{
+  width: 1343px;
+  height: 56px;
+  font-size: 14px;
+  display: inline-block;
+}
+
+
+/* ._3Zuj5 {
+  background:black;
+  width: 1px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  display: inline-block;
+} */
+
+.head-2-ul li {
+  display: inline-block;
+  list-style-type: none;
+  display: inline;
+  margin: 0px 7.5px
+}
